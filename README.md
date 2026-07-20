@@ -50,7 +50,7 @@
 
 ### 3) Leaver Offboarding Script
 
-1. In the **Domain Controller** run the **[Offboarding Script](/scripts/Mover-Role-Change.ps1)** in **PowerShell 7**
+1. In the **Domain Controller** run the **[Offboarding Script](/scripts/offboarding-script.ps1)** in **PowerShell 7**
 
 <p align="center">
   
