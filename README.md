@@ -53,5 +53,25 @@
 1. In the **Domain Controller** run the **[Offboarding Script](/scripts/offboarding-script.ps1)** in **PowerShell 7**
 
 <p align="center">
-  
+  <img width="984" height="518" alt="image" src="https://github.com/user-attachments/assets/3f04805e-e2ee-44aa-a093-8b7aad123a4b" />
 </p>
+
+2. In **Okta** run a **Incremental Import**
+3. Open the **Groups** tab then open the **Finance** group
+4. Confirm the **Emily Rhodes** no longer appears in the **Finance** group
+
+<p align="center">
+  <img width="1013" height="623" alt="image" src="https://github.com/user-attachments/assets/71b9dab4-bd30-4b46-addf-90d538b8c7fd" />
+</p>
+
+5. Open the **People** tab
+6. Confirm the **Emily Rhodes** account has the **Deactivated** status
+
+<p align="center">
+  <img width="1024" height="365" alt="image" src="https://github.com/user-attachments/assets/6a4c1879-9347-45e3-bc6a-59eef8a1463f" />
+</p>
+
+---
+
+### 4) CSV-Driven Batch Processing
+
