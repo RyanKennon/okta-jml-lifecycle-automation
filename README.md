@@ -8,4 +8,5 @@
 
 ### 1) Joiner Onboarding Script
 
-1. On the **Domain Controller** open **PowerShell 7 and run this **Script**
+1. On the **Domain Controller** open **PowerShell 7 and run this **[Onboarding Script](./scripts/Onboard-Joiner.ps1)**
+2. 
