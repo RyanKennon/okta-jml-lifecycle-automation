@@ -75,3 +75,9 @@
 
 ### 4) CSV-Driven Batch Processing
 
+1. In the **Domain Controller** save the [CSV File](/scripts/jml-batch.csv) to the **Desktop**
+2. Then in **PowerShell 7** run the **[Batch Script](/scripts/Batch-Script.ps1)
+
+<p align="center">
+  
+</p>
