@@ -26,7 +26,7 @@
 
 ### 2) Mover Role Change Script
 
-1. In the **Domain Controller** run the **[Mover Role Change Script]()** in **PowerShell 7**
+1. In the **Domain Controller** run the **[Mover Role Change Script](/scripts/Mover-Role-Change.ps1)** in **PowerShell 7**
 
 <p align="center">
   <img width="982" height="515" alt="image" src="https://github.com/user-attachments/assets/38a8b68d-a5ff-47a8-81a0-5ba5c4e592bc" />
