@@ -32,3 +32,26 @@
   <img width="982" height="515" alt="image" src="https://github.com/user-attachments/assets/38a8b68d-a5ff-47a8-81a0-5ba5c4e592bc" />
 </p>
 
+2. In **Okta** run a **Incremental Import**
+3. Open the **Groups** tab then open the **Finance** group
+4. Confirm the **Emily Rhodes** appears in the **Finance** group
+
+<p align="center">
+  <img width="1012" height="674" alt="image" src="https://github.com/user-attachments/assets/45d7fb53-31bd-4e09-af83-d029fba55dff" />
+</p>
+
+5. Confirm the **Emily Rhodes** no longer appears in the **IT** group
+
+<p align="center">
+  <img width="1017" height="621" alt="image" src="https://github.com/user-attachments/assets/3f7afd53-ff51-4f9e-bcb8-1cd5ecf45a51" />
+</p>
+
+---
+
+### 3) Leaver Offboarding Script
+
+1. In the **Domain Controller** run the **[Offboarding Script](/scripts/Mover-Role-Change.ps1)** in **PowerShell 7**
+
+<p align="center">
+  
+</p>
