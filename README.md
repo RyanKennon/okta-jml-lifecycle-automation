@@ -9,7 +9,7 @@ This lab covers automating the joiner, mover, and leaver lifecycle using PowerSh
 ---
 
 ## Prerequisites
-This is the seventh lab of the [Okta IAM Lab Series](https://github.com/RyanKennon/Okta-Lab-Series/tree/main).
+This is the sixth lab of the [Okta IAM Lab Series](https://github.com/RyanKennon/Okta-Lab-Series/tree/main).
 Complete all previous labs before starting this one.
 The following should be in place before starting:
 - Active Okta Integrator org with users, groups, and policies configured from previous labs
@@ -142,10 +142,6 @@ The following should be in place before starting:
 > for the next lab in the series.
 
 ---
-
 <p align="left">
-  <a href="link-to-lab-6-repo">⬅ Lab 6 — Okta Lifecycle Management & Provisioning</a>
-</p>
-<p align="right">
-  <a href="link-to-lab-8-repo">Lab 8 — Okta Access Governance ➡</a>
+  <a href="https://github.com/RyanKennon/okta-mfa-adaptive-authentication">⬅ Lab 5 — Okta MFA & Adaptive Authentication</a>
 </p>
