@@ -106,7 +106,7 @@ The following should be in place before starting:
 
 ### 4) CSV-Driven Batch Processing
 
-1. In the **Domain Controller** create a **csv file** that matches my [CSV File](/jml-batch.csv) on the **Desktop** named **jml-batch.csv**
+1. In the **Domain Controller** create a **csv file** that matches my [CSV File](/scripts/jml-batch.csv) on the **Desktop** named **jml-batch.csv**
 2. Then in **PowerShell 7** run the [Batch Script](/scripts/Batch-Script.ps1)
 
 <p align="center">
